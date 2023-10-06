@@ -42,10 +42,6 @@
     <!-- Preloader Start Here -->
     <div id="preloader"></div>
     <!-- Preloader End Here -->
-    <!--Ai bot --->
-    <script>(function(w, d) { w.CollectId = "65013c748a3fde15c3ece3ed"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; 
-        s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
-    <!-----AI bot ends here------>
     <!-- scrollUp Start Here -->
     <a href="#wrapper" data-type="section-switch" class="scrollUp">
         <i class="fas fa-angle-double-up"></i>
@@ -56,28 +52,7 @@
         <?php
         include("./header.php");
         ?>
-        <!-- Header Area End Here -->
-        <!-- Inne Page Banner Area Start Here -->
-        <div class="banner">
-            <img src="https://khangnguyencorp.com/wp-content/uploads/2020/02/contact-us-banner-1024x303-1.jpg"
-                style="width:100%;height:350px;margin-top:75px">
-        </div>
-        <!-- Inne Page Banner Area End Here -->
-        <!-- Contact Us Area Start Here -->
-        <section class="contact-wrap-layout">
-            <div class="container">
-                <div class="google-map-area">
-                    <!-- <div id="googleMap" style="width:100%; height:496px;">
-                        
-                    </div> -->
-                    <iframe id="googleMap"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d485.6571404598992!2d80.29756789999999!3d13.146174600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526feee4ee6ebf%3A0x2f62c26a3b5bc00!2sRopheka%20Poly%20Clinic!5e0!3m2!1sen!2sin!4v1689657530690!5m2!1sen!2sin"
-                        style="width:100%; height:496px;" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8">
-                        <div class="contact-box-layout1">
+                          <div class="contact-box-layout1">
                             <h3 class="title title-bar-primary4">Leave Us Message</h3>
                             <form  method="POST" class="contact-form-box" id="contact-us">
                                 <div class="row">
